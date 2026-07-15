@@ -1,5 +1,9 @@
 # osmgraph
 
+[![Release](https://img.shields.io/github/v/release/ize-302/osmgraph?style=for-the-badge&logo=github&color=blue)](https://github.com/ize-302/osmgraph/releases)
+[![Go Reference](https://img.shields.io/badge/go.dev-reference-00ADD8?style=for-the-badge&logo=go)](https://pkg.go.dev/github.com/ize-302/osmgraph)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ize-302/osmgraph?style=for-the-badge)](https://goreportcard.com/report/github.com/ize-302/osmgraph)
+
 Builds a road graph from an OpenStreetMap PBF file (osm.pbf). Returns a node map (coordinates) and an adjacency map (edges) suitable for pathfinding.
 
 ## Install
